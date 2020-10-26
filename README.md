@@ -2,11 +2,11 @@
 
 # React Example
 
-This directory is a brief example of a [React](https://reactjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
+This is an Influify website example.
 
 ## Deploy Your Own
 
-Deploy your own React project, along with Serverless Functions, with Vercel.
+Deploy an Influify website in 1 click, with Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/create-react-app-functions)
 
